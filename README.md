@@ -15,4 +15,4 @@ Features will be done later :
     
 Hint : this project this way in php is subject to sql injection, better use prepared statements.
 
---feel free to edit it like you like :). *it is for learning and fun only. 
+--feel free to edit it as you like :). *it is for learning and fun only. 
